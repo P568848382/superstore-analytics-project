@@ -15,7 +15,7 @@ superstore-analytics-project
 │ ├── dim_products.csv
 │ ├── dim_locations.csv
 │ └── fact_orders.csv
-
+|___________________Project_doc--|__superstore analysis project report
 ├── notebooks
 │ └── data_cleaning_feature_engineering.ipynb
 
